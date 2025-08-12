@@ -3,20 +3,7 @@
 #### Description
 日常算法学习，刷题和总结
 
-#### Software Architecture
-Software architecture description
 
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
 
 #### Contribution
 
